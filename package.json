@@ -4,7 +4,7 @@
   "description": "A local environment for practicing JavaScript and TypeScript interview problems",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "private": true,
   "devDependencies": {
