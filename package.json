@@ -1,0 +1,13 @@
+{
+  "name": "live-coding",
+  "version": "1.0.0",
+  "description": "A local environment for practicing JavaScript and TypeScript interview problems",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

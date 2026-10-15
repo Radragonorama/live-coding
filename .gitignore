@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+*.tsbuildinfo
+
+# Environment variables and secrets
+.env
+.env.*
